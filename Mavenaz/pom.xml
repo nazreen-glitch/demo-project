@@ -3,8 +3,7 @@
   <groupId>com.obsqura</groupId>
   <artifactId>Mavenaz</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+  <name>jenkins</name>
   <build>
 		<plugins>
 			<plugin>
@@ -28,12 +27,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	<dependencies>
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi</artifactId>
     <version>5.2.3</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+    </dependency>
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
