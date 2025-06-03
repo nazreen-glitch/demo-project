@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>abstraction.Main</mainClass>
+							<mainClass>abstraction.MainClass</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
